@@ -1,3 +1,5 @@
+!(project_1_writeup.pdf)
+
 READ ME
 
 To run my code using my pre-trained model for test images, please add 1 folder named 'test' for all the test images. Then run predict.py to run on all the images in that folder.
